@@ -15,7 +15,7 @@ function App() {
         <Routes>
           <Route path='/home' element={<Home />} />
           <Route path='/page-one' element={<Pageone />} />
-          <Route path='/page-two' element={<PageTwo />} />
+          <Route path='/page-two' element={<PageTwo  />} />
         </Routes>
       </BrowserRouter>
     </div>
